@@ -1,0 +1,5 @@
+= Sqlitebeat Docs
+
+Welcome to the Sqlitebeat documentation.
+
+
